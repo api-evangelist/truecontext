@@ -1,0 +1,31 @@
+generated: '2026-07-21'
+method: searched
+probe: true
+url: https://trust.truecontext.com/
+source: >-
+  https://trust.truecontext.com/ (TrueContext Trust Center, powered by Conveyor);
+  https://truecontext.com/product/compliance-security/
+description: >-
+  TrueContext operates a public Trust Center (a Conveyor-powered portal at
+  trust.truecontext.com) exposing its security and compliance posture and
+  document library. The compliance & security product page corroborates the
+  high-confidence certifications below; additional standards are listed in the
+  Trust Center document library. (FedRAMP appears as a Conveyor document-category
+  keyword on the portal but is not corroborated as an authorization and is omitted.)
+certifications:
+  - {name: SOC 2 Type II, note: Internal controls for security, confidentiality, and availability, confidence: high, evidence: compliance-security page}
+  - {name: HIPAA / HITECH, note: Third-party-verified for the HIPAA Security Rule and HITECH, confidence: high, evidence: compliance-security page}
+  - {name: Title 21 CFR Part 11, note: FDA electronic records/signatures validity, security, and audit visibility, confidence: high, evidence: compliance-security page}
+  - {name: GDPR, note: EU data protection, confidence: high, evidence: compliance-security page}
+  - {name: ISO 27001, confidence: listed, evidence: trust-center document library}
+  - {name: ISO 27017, confidence: listed, evidence: trust-center document library}
+  - {name: ISO 27018, confidence: listed, evidence: trust-center document library}
+  - {name: PCI DSS, confidence: listed, evidence: trust-center document library}
+  - {name: CSA STAR, confidence: listed, evidence: trust-center document library}
+  - {name: CCPA, confidence: listed, evidence: trust-center document library}
+docs:
+  - https://trust.truecontext.com/
+  - https://truecontext.com/product/compliance-security/
+evidence:
+  - {source: https://trust.truecontext.com/, keywords: [trust center, soc 2, iso 27001, hipaa, pci, gdpr]}
+  - {source: https://truecontext.com/product/compliance-security/, keywords: [soc 2 type ii, hipaa, title 21 cfr part 11, gdpr]}

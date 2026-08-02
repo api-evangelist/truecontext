@@ -1,0 +1,48 @@
+generated: '2026-07-21'
+method: searched
+source: >-
+  https://truecontext.com/product/integrations/?tab=api-integrations;
+  https://docs.truecontext.com/; live probes of api.prontoforms.com.
+description: >-
+  Cross-cutting request/response conventions for the TrueContext (ProntoForms)
+  REST API, captured from the public integrations/product documentation and live
+  endpoint probes. Fields that the provider does not document publicly (the API
+  reference sits behind authenticated docs) are left null rather than guessed.
+authentication:
+  style: api-key
+  detail: See authentication/truecontext-authentication.yml
+versioning:
+  style: uri-path
+  detail: /api/1.0/ and /api/2.0/ path segments. See lifecycle/truecontext-lifecycle.yml
+transport:
+  base_url: https://api.prontoforms.com/api/2.0/
+  methods: [GET, POST]
+  notes: HTTP GET/POST for bidirectional data; OData query endpoints also supported.
+webhooks:
+  supported: true
+  detail: >-
+    Webhooks push form/submission data to any URL; supported delivery mechanisms
+    documented by the platform include HTTP File Upload, POST, PUT, Template, and
+    Contact destinations.
+  docs: https://truecontext.com/product/integrations/?tab=api-integrations
+odata:
+  supported: true
+  notes: Any REST or OData endpoint can be queried for bidirectional data exchange.
+data_connectors:
+  - FTP / sFTP data sources and destinations
+  - Power BI, Tableau, Birst (analytics destinations)
+idempotency:
+  supported: null
+  notes: No public idempotency-key contract was located in the accessible documentation.
+pagination:
+  style: null
+  notes: Not documented on public pages (API reference is behind authenticated docs).
+error_envelope:
+  format: null
+  notes: Not documented on public pages.
+rate_limiting:
+  signaled: null
+  notes: Not documented on public pages.
+cross_links:
+  authentication: authentication/truecontext-authentication.yml
+  lifecycle: lifecycle/truecontext-lifecycle.yml

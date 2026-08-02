@@ -1,0 +1,35 @@
+generated: '2026-07-21'
+method: searched
+source: >-
+  https://truecontext.com/product/compliance-security/;
+  https://trust.truecontext.com/; live probes of api.prontoforms.com.
+description: >-
+  Industry / cross-cutting standards TrueContext (ProntoForms) conforms to,
+  captured from its published compliance & security posture and Trust Center,
+  and from observed API behavior. Standards with no public evidence are marked
+  conforms:false or left unasserted rather than guessed.
+standards:
+  - id: soc2-type-ii
+    conforms: true
+    evidence: Published SOC 2 Type II controls (compliance-security page, Trust Center)
+  - id: hipaa
+    conforms: true
+    evidence: Third-party-verified for HIPAA Security Rule and HITECH (compliance-security page)
+  - id: fda-21-cfr-part-11
+    conforms: true
+    evidence: Title 21 CFR Part 11 electronic records/signatures seal (compliance-security page)
+  - id: gdpr
+    conforms: true
+    evidence: GDPR data protection posture (compliance-security page, Trust Center)
+  - id: iso-27001
+    conforms: true
+    evidence: Listed in Trust Center document library
+  - id: odata
+    conforms: true
+    evidence: OData query endpoints documented on the API integrations page
+  - id: oauth2
+    conforms: false
+    evidence: No public OAuth2/OIDC authorization-server or well-known discovery documents (probed 404 / redirect-to-login)
+  - id: rfc9457-problem-details
+    conforms: false
+    evidence: No public evidence of application/problem+json error envelope

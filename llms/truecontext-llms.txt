@@ -1,0 +1,99 @@
+# Field Service App for Mobile Data Collection | TrueContext, formerly ProntoForms
+
+Mobile forms app and intelligent workflows for field service teams. Bridge the gap between the field and back office with the #1 field service workflow platform.
+
+## Getting Started
+
+- [Register Now](https://truecontext.com/lp/events/webinar-truecontext-platform-demonstration/): Register for our weekly platform demo to see TrueContext in action..
+- [Login](https://live.truecontext.com/): Access your account to manage your mobile forms and workflows.
+- [REQUEST A TRIAL](https://truecontext.com/home/request-a-trial/): Request a trial to explore the features of the intelligent field service workflow platform and mobile forms app.
+- [GET A DEMO](https://truecontext.com/home/get-a-demo/): Request a personalized platform walk-through tailored to your business and field team needs
+
+## Pricing Information
+
+- [Pricing](https://truecontext.com/pricing/): Find the right solution for your field service operations and the pricing plans available.
+
+## Core Features
+
+- [Field Service App Platform](https://truecontext.com/product/low-code-app-platform/): Overview of the mobile app and workflow platform that supports mobile data collection and field service management.
+- [Advanced Workflow Automation](https://truecontext.com/product/field-service-automation/): Learn about workflow automation features that streamline technician workflows to double field productivity with half the effort.
+- [Connected Data](https://truecontext.com/product/connected-data/): Learn how the mobile forms app connects rich field data from the frontline to decision-makers for better operational visibility and analytics.
+- [Compliance & Security](https://truecontext.com/product/compliance-security/): Information on how TrueContext’s mobile app and workflow platform meet enterprise-grade security requirements and compliance standards including HIPAA, SOC 2 Type II, and Title 21 CFR Part 11 compliance to meet strict IT guidelines.
+- [Workflow Creation](https://truecontext.com/product/workflow-creation/): Product capabilities available for creating easy-to-configure custom workflows tailored to your field teams and business needs.
+- [Mobile Forms App](https://truecontext.com/product/mobile-forms-app/): Details about TrueContext’s  mobile forms app for field service teams to enable rich data collection from anywhere and in any language.
+- [Reporting & Analytics](https://truecontext.com/product/analytics-and-reporting/): Features that enable reporting and analytics capabilities for data-driven decisions in field service operations.
+
+## Integrations
+
+- [ServiceNow](https://truecontext.com/product/integrations/servicenow/): Out-of-the-box integration capabilities with ServiceNow for enhanced service management and complex data collection.
+- [Salesforce](https://truecontext.com/product/integrations/salesforce/): Connect with Salesforce Service Cloud for enhanced field service data collection capabilities and increase field worker productivity.
+- [ServiceMax](https://truecontext.com/product/integrations/servicemax/): Integration with ServiceMax for better field data collection and reporting.
+- [Microsoft](https://truecontext.com/product/integrations/microsoft/): Learn about Microsoft integrations for improved field service productivity and data collection.
+- [API Integrations](https://truecontext.com/product/integrations/?tab=api-integrations): Information about TrueContext’s REST API which lets you create custom connections, opening limitless integration possibilities.
+- [View all integrations](https://truecontext.com/product/integrations-options/): A comprehensive list of all integrations supported by the platform including out-of-the-box integrations, app-to-app integrations, and custom API integrations.
+
+## Industry Applications
+
+- [Installation](https://truecontext.com/solutions/installation/): A ready-to-deploy field service workflow solution for first-time-right installations with built-in checklists, safety protocols, and compliance validation to accelerate operational readiness.
+- [Maintenance & Repair](https://truecontext.com/solutions/maintenance-and-repair/): A mobile forms app and workflow platform  for field service teams to reduce unexpected downtime with proactive, data-driven asset maintenance and repair services..
+- [Inspections & Compliance](https://truecontext.com/solutions/inspections-and-compliance/): Product features for conducting service inspections and ensuring compliance with built-in guardrails for improved data collection and an unbroken audit trail.
+- [Environment, Health & Safety](https://truecontext.com/solutions/environmental-health-and-safety/): Information on how TrueContext’s platform helps organizations streamline field safety operations with mobile workflows, real-time data access, and analytics to improve compliance, reduce incidents, and empower technicians in the fieldSolutions focused on EHS requirements.
+- [Industrial Equipment](https://truecontext.com/solutions/mobile-apps-industrial-equipment/): Information on how TrueContext’s field service workflow platform empowers field teams servicing complex, industrial equipment to boost productivity, safety, and asset reliability through guided mobile workflows and real-time data access.
+- [Medical Equipment](https://truecontext.com/solutions/mobile-apps-medical-equipment/): Information on how TrueContext’s mobile forms app and workflow platform helps medical equipment providers ensure compliance, extend asset lifecycles, and guide technicians with intelligent, asset-specific workflows.
+- [Oil & Gas](https://truecontext.com/solutions/mobile-apps-oil-and-gas/): Information on how TrueContext’s mobile form app and workflow platform supports oil and gas operations across upstream, midstream, and downstream by digitizing field workflows to enhance safety, asset performance, and data-driven decision-making in extreme conditions.
+- [Field Service](https://truecontext.com/solutions/mobile-apps-field-service/): Information on how TrueContext’s field service mobile app and platform empowers technicians with real-time data, guided workflows, and seamless system integration to boost productivity, reduce errors, and improve operational visibility.
+
+## Resources and Support
+
+- [Customer Stories](https://truecontext.com/resources/by/customer-stories/): Read about how other customers have successfully implemented TrueContext’s mobile forms app and workflow platform into their field service organization.
+- [Professional Services](https://truecontext.com/resources/deployment-services/): Information on professional services offered to assist with implementation and support.
+- [Events](https://truecontext.com/resources/events/): Upcoming events related to TrueContext and field service management.
+- [Blog](https://truecontext.com/blog/): Insights and articles on industry trends and best practices.
+- [Knowledge Base](https://support.truecontext.com/hc/en-us): Access to a repository of articles and guides for troubleshooting and learning.
+- [Product Documentation](https://docs.truecontext.com/): Comprehensive documentation for using the field service app and workflow platform.
+- [TrueContext University](https://truecontext.com/resources/truecontext-university/): Educational resources and training for users.
+- [Resource Library](https://truecontext.com/resources/library/): A collection of resources available for download including industry reports, use case summaries, and customer success stories.
+- [Community](https://community.truecontext.com/): Join the TrueContext community for discussions and support.
+- [Contact Support](https://support.truecontext.com/hc/en-us/articles/4406631384340-How-To-Contact-Technical-Support): Reach out for technical support and assistance.
+- [Talk to Sales](https://truecontext.com/home/contact-sales/): Get in touch with the sales team for inquiries and information.
+
+## Company Information
+
+- [About Us](https://truecontext.com/about/): Learn more about TrueContext and its mission.
+- [Careers](https://truecontext.com/about/careers/): Explore career opportunities within the company.
+- [Newsroom](https://truecontext.com/about/newsroom/): Latest news and updates from TrueContext.
+- [Partnerships](https://truecontext.com/about/partners/): Information on joining TrueContext’s growing community of resellers and technology partners.
+
+## Blog
+
+[Oil and gas strategy](https://truecontext.com/blog/forward-thinking-strategies-oil-gas-field-service/): Strategies for oil and gas field operations to digitize inspections, improve compliance, and drive reliability.
+[What is field service automation](https://truecontext.com/blog/what-is-field-service-automation/): Defines field service automation and how it improves efficiency, data capture, and technician productivity. A breakdown of field service automation and how it streamlines data collection and reporting.
+[Multi-language form builder](https://truecontext.com/blog/multi-language-workflows/): Enable global field teams with forms that automatically adapt to language and location for consistent data capture and field workflows.
+[Automation in mining industry](https://truecontext.com/blog/mobile-mining-automation/): Automation opportunities for mining operations through mobile platforms and digital workflows.
+[Customer feedback form](https://truecontext.com/blog/calculations-string-concatenation-questions-now-available-customer-feedback-site-readiness-forms/): New form capabilities to enhance customer feedback collection and readiness assessments.
+[Enterprise workflow automation](https://truecontext.com/blog/make-an-impact-with-enterprise-agility-in-field-service/): Discusses how agile, automated workflows improve enterprise-wide field service operations.
+[Job site analysis](https://truecontext.com/blog/job-safety-analysis/): Covers job safety analysis (JSA) workflows that reduce risk on site.
+[Manufacturing processes](https://truecontext.com/blog/future-heavy-manufacturing-industry/): Field service strategies for transforming heavy manufacturing through mobile and connected workflows.
+[SOC 2 type 2 compliant](https://truecontext.com/blog/prontoforms-is-soc-2-type-2-compliant-thats-a-big-deal/): What SOC 2 Type II compliance means and why it matters in mobile field service platforms.
+[Data security and compliance](https://truecontext.com/blog/data-security-compliance/): How TrueContext supports secure, compliant data practices across mobile forms.
+[TRIR](https://truecontext.com/blog/understand-calculate-trir-improve-field-safety-osha/): How to calculate Total Recordable Incident Rate (TRIR), why it matters in field safety, and strategies to lower it, helping field service teams comply with OSHA, reduce injuries, and build safer operations.
+[Work order](https://truecontext.com/blog/what-is-work-order-in-field-service/): A field service–focused guide to understanding work orders: their types, required details (like location, parts, labor), lifecycle stages, and tips to ensure clarity and consistency for technicians and dispatch teams.
+[data collection methods](https://truecontext.com/blog/data-collection-methods-types-tools/): Explains modern field data strategies and tools—from mobile forms to offline capabilities—designed to increase accuracy, minimize admin work, and accelerate decision-making in field service operations.
+[FTFR](https://truecontext.com/blog/how-to-improve-ftfr-using-field-service-data/): Practical tactics for improving first-time fix rate (FTFR) by equipping technicians with accurate parts data, service history, route planning, and real-time visibility. Teaches field leaders how to reduce repeat visits and boost operational efficiency.
+[workflow automation](https://truecontext.com/blog/workflow-automation/): Highlights how field service teams can use no‑code workflow automation to eliminate paper, guide technicians through work orders, minimize manual handoffs, and accelerate data-driven decisions and operational efficiency.
+
+## Landing Pages
+
+[field service workflow automation] (https://truecontext.com/lp/ppc/field-service-workflow-automation/): Automate field service workflows to double productivity and dramatically reduce administrative burden through intuitive mobile forms and powerful conditional logic.
+[formstack vs truecontext] (https://truecontext.com/lp/competitors/formstack-vs-truecontext/): TrueContext outperforms Formstack for enterprise mobile forms and workflow automation, with higher ratings, better admin ease, offline mode, advanced calculations, and robust compliance features.
+[fastfield forms vs truecontext] (https://truecontext.com/lp/competitors/fastfield-forms-vs-truecontext/): TrueContext offers more sophisticated compliance, deep process automation, integrations, and advanced field service features than FastField Forms.
+[gocanvas vs truecontext] (https://truecontext.com/lp/competitors/gocanvas-vs-truecontext/): TrueContext provides leading compliance, automation, and data-integrated workflows specifically designed for field service, surpassing GoCanvas in enterprise features.
+[fulcrum vs truecontext] (https://truecontext.com/lp/competitors/fulcrum-vs-truecontext/): TrueContext is the top-rated field service-focused mobile forms solution, excelling in compliance, automation, integration, and advanced mobile user experience when compared to Fulcrum.
+[device magic vs truecontext] (https://truecontext.com/lp/competitors/device-magic-vs-truecontext/): TrueContext delivers superior compliance, automation capabilities, and deep systems integration for field service operations compared to Device Magic.
+[xoi vs truecontext] (https://truecontext.com/lp/competitors/xoi-vs-truecontext-a/): TrueContext stands out over XOi with best-in-class field service workflow automation, compliance, and offline capabilities for mobile teams.
+[mendix vs truecontext] (https://truecontext.com/lp/competitors/mendix-vs-truecontext-a/): TrueContext provides a focused, mobile-first field service automation platform with advanced compliance and offline workflows, offering a simpler solution than Mendix.
+[appify vs truecontext] (https://truecontext.com/lp/competitors/appify-vs-truecontext-a/): TrueContext sets itself apart from Appify with advanced mobile forms, automation, and robust field service compliance features built for enterprise use.
+[innovapptive vs truecontext] (https://truecontext.com/lp/competitors/innovapptive-vs-truecontext-a/): TrueContext gives field organizations greater flexibility, automation, and compliance control than Innovapptive, powered by deep integrations.
+[fluix vs truecontext] (https://truecontext.com/lp/competitors/fluix-vs-truecontext-a/): TrueContext offers deeper automation, compliance, and enterprise field workflow integration compared to Fluix’s basic mobile forms.
+[gomocha vs truecontext] (https://truecontext.com/lp/competitors/gomocha-vs-truecontext-a/): TrueContext surpasses Gomocha with highly configurable mobile forms, industry-leading compliance, and advanced workflow automations.
+[fatfinger vs truecontext] (https://truecontext.com/lp/competitors/fatfinger-vs-truecontext-a/): TrueContext leads over FatFinger with richer field data automation, compliance safeguards, and broad systems integration for service enterprises.

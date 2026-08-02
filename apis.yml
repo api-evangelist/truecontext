@@ -1,8 +1,22 @@
 aid: truecontext
 name: TrueContext
-description: TrueContext is a company surfaced as a portfolio company of battery-ventures and added to
-  the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 8
+  pass: local-v1
+description: >-
+  TrueContext (formerly ProntoForms) is an enterprise field-intelligence and
+  mobile-workflow platform that helps field service teams capture rich data,
+  guide technicians through smart context-aware forms, and connect frontline
+  work to back-office systems. Its low-code platform covers mobile forms, guided
+  workflow automation, connected data, dispatch, and reporting for industries
+  such as field service, installation, maintenance and repair, inspections and
+  compliance, EHS, industrial and medical equipment, and oil and gas. The
+  platform exposes a REST API (v1.0 and v2.0 at api.prontoforms.com) for
+  programmatic access to forms, submissions, users, and dispatch, plus webhooks,
+  OData, and FTP/sFTP data connectors, with out-of-the-box integrations for
+  ServiceNow, Salesforce, ServiceMax, and Microsoft.
 url: https://raw.githubusercontent.com/api-evangelist/truecontext/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +24,108 @@ x-backed-by:
 - battery-ventures
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: self-serve
+  trial: false
+  try_now: false
+  public: false
+  label: Self-serve signup
+  confidence: medium
+  source:
+  - authentication
+  generated: '2026-07-22'
+  method: derived
+image: https://truecontext.com/wp-content/uploads/2023/11/feature-image-homepage.jpg
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
-apis: []
+- Field Service
+- Mobile Forms
+- Workflow Automation
+- Data Collection
+- Field Intelligence
+- Low-Code
+- Dispatch
+- Inspections
+- Compliance
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+apis:
+- name: TrueContext REST API
+  description: >-
+    REST API for full programmatic access to TrueContext (ProntoForms) forms,
+    submissions, users, and dispatch, available on the Elite tier. Supports
+    HTTP GET/POST for bidirectional data, webhooks to push form data to any URL,
+    and OData endpoints. Served at api.prontoforms.com under versioned /api/1.0/
+    and /api/2.0/ paths; requests require authenticated API credentials (HTTP
+    401 without them).
+  humanURL: https://docs.truecontext.com/
+  baseURL: https://api.prontoforms.com/api/2.0/
+  properties:
+  - type: Documentation
+    url: https://docs.truecontext.com/
+  - type: APIReference
+    url: https://docs.truecontext.com/
+  - type: Authentication
+    url: authentication/truecontext-authentication.yml
+  - type: Webhooks
+    url: https://truecontext.com/product/integrations/?tab=api-integrations
+  - type: Lifecycle
+    url: lifecycle/truecontext-lifecycle.yml
+common:
+- type: DeveloperPortal
+  url: https://docs.truecontext.com/
+- type: Documentation
+  url: https://docs.truecontext.com/
+- type: APIReference
+  url: https://docs.truecontext.com/
+- type: GettingStarted
+  url: https://support.truecontext.com/hc/en-us
+- type: Support
+  url: https://support.truecontext.com/hc/en-us
+- type: HelpCenter
+  url: https://support.truecontext.com/hc/en-us
+- type: Community
+  url: https://community.truecontext.com/home
+- type: Blog
+  url: https://truecontext.com/blog/
+- type: Pricing
+  url: https://truecontext.com/pricing/
+- type: SignUp
+  url: https://truecontext.com/home/request-a-trial/
+- type: Login
+  url: https://live.truecontext.com/
+- type: TermsOfService
+  url: https://truecontext.com/about/terms-of-use/
+- type: PrivacyPolicy
+  url: https://truecontext.com/about/privacy-policy/
+- type: GitHubOrganization
+  url: https://github.com/prontoforms
+- type: StatusPage
+  url: https://status.truecontext.com/
+- type: TrustCenter
+  url: https://trust.truecontext.com/
+- type: Compliance
+  url: https://truecontext.com/product/compliance-security/
+- type: Webhooks
+  url: https://truecontext.com/product/integrations/?tab=api-integrations
+- type: LLMsTxt
+  url: llms/truecontext-llms.txt
+- type: Authentication
+  url: authentication/truecontext-authentication.yml
+- type: Lifecycle
+  url: lifecycle/truecontext-lifecycle.yml
+- type: Conventions
+  url: conventions/truecontext-conventions.yml
+- type: Conformance
+  url: conformance/truecontext-conformance.yml
+- type: TrustCenter
+  url: security/truecontext-trust-center.yml
+- type: DomainSecurity
+  url: security/truecontext-domain-security.yml

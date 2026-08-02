@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: searched
+source: >-
+  https://docs.truecontext.com/ (TrueContext REST API documentation);
+  https://truecontext.com/product/integrations/?tab=api-integrations; live probe
+  of https://api.prontoforms.com/api/2.0/ (returns HTTP 401 without credentials).
+summary:
+  types: [apiKey]
+  api_key_in: [header]
+  notes: >-
+    The TrueContext (ProntoForms) REST API requires authenticated API credentials;
+    unauthenticated requests to api.prontoforms.com/api/1.0/ and /api/2.0/ return
+    HTTP 401. API access is an Elite-tier capability. Credentials are provisioned
+    and managed by an account administrator in the TrueContext web portal
+    (live.truecontext.com) rather than via a public self-serve OAuth app registry.
+    No OAuth2 authorization-server or OpenID configuration is published at the
+    provider's well-known endpoints (probed 404 / redirect-to-login).
+schemes:
+  - name: apiKey
+    type: apiKey
+    in: header
+    description: >-
+      API credential (key/secret pair) issued in the TrueContext portal and sent
+      on each request to the versioned REST API. Exact header/parameter naming is
+      documented in the authenticated product documentation at docs.truecontext.com.
+    sources: [docs.truecontext.com]
+docs: https://docs.truecontext.com/
+observed:
+  - {host: api.prontoforms.com, path: /api/2.0/, status: 401}
+  - {host: api.prontoforms.com, path: /api/1.0/, status: 401}

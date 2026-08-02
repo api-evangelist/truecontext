@@ -1,0 +1,16 @@
+generated: '2026-07-21'
+method: probed
+host: https://truecontext.com
+description: >-
+  Probe of standard /.well-known/ discovery endpoints for TrueContext. No
+  discovery documents are published: the corporate host returns 404, and the API
+  host (api.prontoforms.com) redirects every well-known path to /security/login
+  (an application login page, not a genuine discovery document). Absence recorded
+  as valid data; no WellKnown/SecurityTxt pointer is emitted.
+documents:
+  - {path: /.well-known/security.txt, host: truecontext.com, status: 404}
+  - {path: /.well-known/openid-configuration, host: truecontext.com, status: 404}
+  - {path: /.well-known/oauth-authorization-server, host: truecontext.com, status: 404}
+  - {path: /.well-known/security.txt, host: api.prontoforms.com, status: 200, note: redirects to /security/login (not a real security.txt)}
+  - {path: /.well-known/openid-configuration, host: api.prontoforms.com, status: 200, note: redirects to /security/login (not a real OIDC document)}
+  - {path: /.well-known/oauth-authorization-server, host: api.prontoforms.com, status: 200, note: redirects to /security/login (not a real document)}

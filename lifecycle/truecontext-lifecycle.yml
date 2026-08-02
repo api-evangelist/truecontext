@@ -1,0 +1,29 @@
+generated: '2026-07-21'
+method: searched
+source: >-
+  https://status.truecontext.com/ (status page, HTTP 200); live probe of
+  api.prontoforms.com showing versioned /api/1.0/ and /api/2.0/ paths (HTTP 401);
+  https://docs.truecontext.com/ product documentation.
+versioning:
+  scheme: uri-path
+  mechanism: Version number in the request path (/api/1.0/, /api/2.0/)
+  current: '2.0'
+  versions: ['1.0', '2.0']
+  docs: https://docs.truecontext.com/
+  notes: >-
+    TrueContext (ProntoForms) versions its REST API by URI path segment. Both the
+    1.0 and 2.0 surfaces are live at api.prontoforms.com; 2.0 is the current
+    generation used for programmatic access to forms, submissions, users, and
+    dispatch.
+deprecation:
+  policy_url: null
+  sunset_header: null
+  notes: >-
+    No public RFC 8594 Sunset/Deprecation header policy was found. Versioning is
+    handled by parallel path-versioned surfaces (1.0 alongside 2.0).
+sla:
+  url: null
+  public_uptime_target: null
+  notes: Availability is communicated via the public status page; no numeric public SLA target was located.
+status_page: https://status.truecontext.com/
+deprecated_operations: []

@@ -51,7 +51,7 @@ accessModel:
 image: https://truecontext.com/wp-content/uploads/2023/11/feature-image-homepage.jpg
 specificationVersion: '0.23'
 created: '2026-07-17'
-modified: '2026-07-21'
+modified: '2026-10-06'
 tags:
 - Company
 - Field Service
@@ -103,6 +103,8 @@ apis:
   - type: Lifecycle
     url: lifecycle/truecontext-lifecycle.yml
 common:
+- url: https://truecontext.com/feed/
+  type: BlogRSS
 - type: Website
   url: https://www.truecontext.com/
 - type: DeveloperPortal

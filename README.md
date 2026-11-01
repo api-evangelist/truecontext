@@ -64,6 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrueContext is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+TrueContext (formerly ProntoForms) is an enterprise field-intelligence and mobile-workflow platform that helps field service teams capture rich data, guide technicians through smart context-aware forms, and connect frontline work to back-office systems. Its low-code platform covers mobile forms, guided workflow automation, connected data, dispatch, and reporting for industries such as field service, installation, maintenance and repair, inspections and compliance, EHS, industrial and medical equipment, and oil and gas. The platform exposes a REST API (v1.0 and v2.0 at api.prontoforms.com) for programmatic access to forms, submissions, users, and dispatch, plus webhooks, OData, and FTP/sFTP data connectors, with out-of-the-box integrations for ServiceNow, Salesforce, ServiceMax, and Microsoft.
 
-Backed by: battery-ventures
+**Areas:** Company · Field Service · Mobile Forms · Workflow Automation · Data Collection · Field Intelligence · Low-Code · Dispatch · Inspection · Compliance
+
+## TrueContext on APIs.io
+
+Everything profiled for TrueContext is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/truecontext/](https://apis.io/providers/truecontext/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [TrueContext REST API](https://apis.io/apis/truecontext/truecontext-rest-api/) — REST API for full programmatic access to TrueContext (ProntoForms) forms, submissions, users, and dispatch, available on the Elite tier. Supports HTTP…
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Truecontext Authentication](https://apis.io/security/truecontext/truecontext-authentication/)
+- [Truecontext Domain Security](https://apis.io/security/truecontext/truecontext-domain-security/)
+- [Truecontext Trust Center](https://apis.io/security/truecontext/truecontext-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.truecontext.com/)
+- [Documentation](https://docs.truecontext.com/)
+- [Getting started](https://support.truecontext.com/hc/en-us)
+- [API reference](https://docs.truecontext.com/)
+- [Pricing](https://truecontext.com/pricing/)
+- [Sign up](https://truecontext.com/home/request-a-trial/)
+- [Support](https://support.truecontext.com/hc/en-us)
+- [Blog](https://truecontext.com/blog/)
+- [Compliance](https://truecontext.com/product/compliance-security/)
+- [Trust centre](https://trust.truecontext.com/)
+- [Terms of service](https://truecontext.com/about/terms-of-use/)
+- [Privacy policy](https://truecontext.com/about/privacy-policy/)
+- [GitHub](https://github.com/prontoforms)
+- [Status](https://status.truecontext.com/)
+
+## API Evangelist rating
+
+**Kin Score 36.6** — thin · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 73.2 |
+| Contract quality | 5.2 |
+| Contract governance | 18.2 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 48.8 |
+| Access clarity | 52.6 |
+
+**Agent readiness 6.4** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/truecontext/](https://apis.io/providers/truecontext/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for TrueContext: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/truecontext/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
